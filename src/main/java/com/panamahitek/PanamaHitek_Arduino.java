@@ -146,6 +146,7 @@ public class PanamaHitek_Arduino {
                     + "4 = Paridad Espaciada\n"
                     + "Se conserva la paridad por defecto (0- Sin Paridad)");
         }
+       
     }
 
     /**
